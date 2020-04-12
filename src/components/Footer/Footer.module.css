@@ -1,0 +1,11 @@
+p {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  color: hsl(229, 6%, 66%);
+  font-size: 0.75rem;
+  margin-bottom: 3rem;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
